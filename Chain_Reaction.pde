@@ -6,7 +6,7 @@ void setup() {
   balls = new Ball[50];
   for (int i = 0; i < 50; i++)
     balls[i] = new Ball();
-  size(400, 400);
+  size(500, 500);
   noStroke();
 }
 
